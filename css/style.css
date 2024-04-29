@@ -1,0 +1,77 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	position: relative;
+}
+
+.three-box {
+	width: 100%;
+	height: 100%;
+}
+
+#three {
+	margin: 0;
+	width: 1000px;
+	height: 800px;
+	position: relative;
+	display: block;
+}
+
+#percent {
+	position: absolute;
+	width: 400px;
+	height: 0px;
+	color: bisque;
+	text-align: left;
+	left: 200px;
+	border: 1px;
+}
+
+.btn {
+	width: 141px;
+	background-color: sandybrown;
+	height: 300px;
+	position: absolute;
+	top: 20px;
+	left: 10px;
+}
+
+.btn1 {
+	width: 140px;
+	height: 30px;
+	margin-bottom: 5px;
+	line-height: 30px;
+	text-align: center;
+	border: 1px solid white;
+	border-radius: 10px;
+	background-color: bisque;
+}
+
+#tupian {
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	right: 5px;
+	top: 5px;
+	border: 1px sandybrown solid;
+}
+
+#photo {
+	width: 30px;
+	height: 30px;
+	background-color: sandybrown;
+}
+
+#AreaId {
+	width: 120px;
+	height: 30px;
+	position: absolute;
+	font-size: 20px;
+	font-style: normal;
+	left: 45%;
+	top: 5px;
+	border: 1px black solid;
+	background-color: bisque;
+}
